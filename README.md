@@ -11,6 +11,9 @@ Verification Status Impact on Total Payments: Explored the impact of borrower ve
 Loan Status Based on Home Ownership and Payment Dates: Utilized loan status data to examine the relationship between home ownership and last payment dates, offering valuable perspectives on payment behavior.
 
 
+
+
+
 **Project KPI's**
 
 Year wise loan amount Stats
